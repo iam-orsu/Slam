@@ -5,7 +5,7 @@ anitha
 anusha
 jahnavi
 jyoshna -Cyber Security analyst and also a developer
-dilip - Bug Bounty Hunter (Top bug hunter in HackerOne platform)
+dilip - Bug Bounty Hunter (Top bug hunter in HackerOne platform)    /*Updated and Merged from a temp branch(Dilips-Branch)*/
 sathya
 jayanth
 kavitha
