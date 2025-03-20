@@ -19,4 +19,4 @@ charan - SOC Analyst
 rebanth
 sathwik
 shreeram
-neha
+neha -cyber security analyst
